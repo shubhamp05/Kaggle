@@ -1,4 +1,4 @@
-Can you detect duplicitous duplicate ads?
+## Can you detect duplicitous duplicate ads?
 
 Online marketplaces make it a breeze for users to both find and buy unique treasures or unload their dusty record collections in the spirit of spring cleaning. 
 As one of the world's largest and fastest growing online classifieds, 
